@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/</loc>
+    <lastmod>2018-03-06T10:55:01-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/tutorial/Emacs%20editor%20de%20texto/</loc>
+    <lastmod>2018-03-06T10:55:01-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/_index/</loc>
+    <lastmod>2018-02-02T10:47:30-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/post/novo-post/</loc>
+    <lastmod>2018-02-01T14:33:45-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/tutorial/Python-B%C3%A1sico/</loc>
+    <lastmod>2018-02-01T10:55:01-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/post/primeiro-post/</loc>
+    <lastmod>2018-02-01T08:09:06-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/contato/</loc>
+    <lastmod>2018-01-30T08:21:29-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/about/</loc>
+    <lastmod>2015-07-28T09:51:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/post/welcome/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rocilenecosta.github.io/welcome/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriais Web on Tecnologia da Informação</title>
+    <link>https://rocilenecosta.github.io/tags/tutoriais-web/</link>
+    <description>Recent content in Tutoriais Web on Tecnologia da Informação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Mar 2018 10:55:01 -0200</lastBuildDate>
+    <atom:link href="https://rocilenecosta.github.io/tags/tutoriais-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Editores de Texto para programar: GNU/Emacs</title>
+      <link>https://rocilenecosta.github.io/tutorial/Emacs%20editor%20de%20texto/</link>
+      <pubDate>Tue, 06 Mar 2018 10:55:01 -0200</pubDate>
+      
+      <guid>https://rocilenecosta.github.io/tutorial/Emacs%20editor%20de%20texto/</guid>
+      <description>
+
+&lt;p&gt;Chegou a vez dos editores de texto, o escolhido foi ele, o queridinho dos estatísticos, o &lt;strong&gt;GNU/Emacs&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Podemos dizer que este editor de texto já é um senhor, maduro e respeitável. Sua primeira versão foi escria em 1976 por ninguém menos que &lt;a href=&#34;https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman&#34;&gt;Richard Stallman&lt;/a&gt; o pai do Software Livre! Com sua base  escrita em Lisp, este poderoso editor pode ser configurável e possui realce de sintaxe para várias linguagens. O &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;GNU Emacs&lt;/a&gt; conta com uma documentação robusta e está dsponível a todos os usuários.&lt;/p&gt;
+
+&lt;p&gt;Vou mostrar aqui como instalar o editor no &lt;a href=&#34;https://www.ubuntu.com/download/desktop&#34;&gt;Linux Ubuntu&lt;/a&gt;, mas acredito, que este tutorial também possa ser utilizado para outras distribuições. Primeiramente, vamos abrir o terminal, que pode ser via atalho no teclado pressionando as teclas &lt;strong&gt;ctrl + alt + t&lt;/strong&gt; e só para não perdermos o costume, vamos verificar se está tudo em dia com a nossa versão do SO, digitando os comandos:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt update
+~$ sudo apt upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Agora o comando para instalação do programa&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install emacs
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Se tudo correu bem, verifique a versão instalada&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ emacs --version
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;
+Tudo pronto! Agora você fará parte do seleto grupo de pessoas maravilhosas que utilizam o Emacs (incluindo a mim o/).&lt;/p&gt;
+
+&lt;p&gt;Para dicas sobre como usar o Emacs, sugiro que utilizem o próprio &lt;a href=&#34;https://pt.wikipedia.org/wiki/GNU_Emacs&#34;&gt;wiki da ferramenta&lt;/a&gt;, ou se preferir, também encontrei um &lt;a href=&#34;https://www.emacswiki.org/emacs/NovatoNoEmacs&#34;&gt;Guia em português&lt;/a&gt;, bem bacaninha que está me ajudando muito.&lt;/p&gt;
+
+&lt;p&gt;Por enquanto é só!
+&lt;br&gt;&lt;/br&gt;
+Caso tenha alguma contribuição a fazer para melhoria deste artigo, não deixe de me procurar &amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/contato/&#34;&gt;&lt;em&gt;Contato&lt;/em&gt;&lt;/a&gt;.
+&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;
+    &lt;font size=&#34;3&#34;&gt;
+    Fontes:
+        &lt;br&gt;
+            &lt;a href=&#34;https://pt.wikipedia.org/wiki/GNU_Emacs&#34;&gt; https://pt.wikipedia.org/wiki/GNU_Emacs
+            &lt;/a&gt;
+        &lt;/br&gt;
+            &lt;a href=&#34;https://www.emacswiki.org/emacs/NovatoNoEmacs&#34;&gt; https://www.emacswiki.org/emacs/NovatoNoEmacs
+            &lt;/a&gt;
+        &lt;br&gt;
+            &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt; https://www.gnu.org/software/emacs/ 
+            &lt;/a&gt;
+        &lt;/br&gt;
+    &lt;/font&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;clique-aqui-https-rocilenecosta-github-io-tutorial-para-outros-tutoriais:49b55aecd3c2466642d6db120fc1e08d&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/tutorial/&#34;&gt;&lt;em&gt;Clique aqui&lt;/em&gt;&lt;/a&gt; para outros Tutoriais.&lt;/h4&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparando o ambiente de desenvolvimento: Python</title>
+      <link>https://rocilenecosta.github.io/tutorial/Python-B%C3%A1sico/</link>
+      <pubDate>Thu, 01 Feb 2018 10:55:01 -0200</pubDate>
+      
+      <guid>https://rocilenecosta.github.io/tutorial/Python-B%C3%A1sico/</guid>
+      <description>
+
+&lt;p&gt;Hoje vamos montar um abiente de desenvolvimento em &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;.
+Dependendo das aplicações desenvolvidas serão necessárias instalações de pacotes extras.&lt;/p&gt;
+
+&lt;p&gt;Atualmente desenvolvo aplicações em ambiente Linux, mais precisamente com &lt;a href=&#34;https://www.ubuntu.com/download/desktop&#34;&gt;Ubuntu Desktop 16.04 LTS&lt;/a&gt;, baseado na minha experiência com este sistema operacional, montei este passo-a-passo:&lt;/p&gt;
+
+&lt;p&gt;Aqui, demostrarei apenas o ambiente básico para desenvolvimento. Caso tenha alguma contribuição a fazer para melhoria deste artigo, não deixe de me procurar &amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/contato/&#34;&gt;&lt;em&gt;Contato&lt;/em&gt;&lt;/a&gt;.
+&lt;br&gt;&lt;/br&gt;
+No linux, vem instalada por padrão a versão 2.7, mas o suporte para esta será descontinuada a partir de 2020, portanto é recomendável utilizar a versão mais recente disponível.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Primeiramente atualizaremos os pacotes do sistema operacional através do comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt update
+~$ sudo apt upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Em seguida execute o comando para instalar a versão 3.5 do Python:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install python3.5
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Existem pacotes que podem ser requisitadas dependendo da aplicação desenvolvida, para isto, devemos instalar também o gerenciador de pacotes do Python executando o seguinte comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install python-pip
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Para certificar que tudo correu bem no terminal digite o comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ python3
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;O resultado será este:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ python3
+Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
+[GCC 5.4.0 20160609] on linux
+Type &amp;quot;help&amp;quot;,&amp;quot;copyright&amp;quot;,&amp;quot;credits&amp;quot; or &amp;quot;license&amp;quot; for more information.
+&amp;gt;&amp;gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;
+Massa! Agora temos um ambiente pronto para iniciarmos nossos estudos em Python.
+&lt;/br&gt;
+Espero ter ajudado!
+&lt;p&gt;
+    &lt;font size=&#34;2&#34;&gt;
+    Fontes:
+        &lt;br&gt;
+            &lt;a href=&#34;http://python.org.br/instalacao-linux&#34;&gt; &lt;a href=&#34;http://python.org.br/instalacao-linux&#34;&gt;http://python.org.br/instalacao-linux&lt;/a&gt;
+            &lt;/a&gt;
+        &lt;/br&gt;
+            &lt;a href=&#34;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes)&#34;&gt; &lt;a href=&#34;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes&#34;&gt;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes&lt;/a&gt;)
+            &lt;/a&gt;
+        &lt;br&gt;
+            &lt;a href=&#34;https://www.codecademy.com/articles/glossary-python&#34;&gt; &lt;a href=&#34;https://www.codecademy.com/articles/glossary-python&#34;&gt;https://www.codecademy.com/articles/glossary-python&lt;/a&gt;
+            &lt;/a&gt;
+        &lt;/br&gt;
+    &lt;/font&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;clique-aqui-https-rocilenecosta-github-io-tutorial-para-outros-tutoriais:7756bd14e55e9514eb42fffeeb20557e&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/tutorial/&#34;&gt;&lt;em&gt;Clique aqui&lt;/em&gt;&lt;/a&gt; para outros Tutoriais.&lt;/h4&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

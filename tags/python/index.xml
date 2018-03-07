@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Tecnologia da Informação</title>
+    <link>https://rocilenecosta.github.io/tags/python/</link>
+    <description>Recent content in Python on Tecnologia da Informação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 10:55:01 -0200</lastBuildDate>
+    <atom:link href="https://rocilenecosta.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Preparando o ambiente de desenvolvimento: Python</title>
+      <link>https://rocilenecosta.github.io/tutorial/Python-B%C3%A1sico/</link>
+      <pubDate>Thu, 01 Feb 2018 10:55:01 -0200</pubDate>
+      
+      <guid>https://rocilenecosta.github.io/tutorial/Python-B%C3%A1sico/</guid>
+      <description>
+
+&lt;p&gt;Hoje vamos montar um abiente de desenvolvimento em &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;.
+Dependendo das aplicações desenvolvidas serão necessárias instalações de pacotes extras.&lt;/p&gt;
+
+&lt;p&gt;Atualmente desenvolvo aplicações em ambiente Linux, mais precisamente com &lt;a href=&#34;https://www.ubuntu.com/download/desktop&#34;&gt;Ubuntu Desktop 16.04 LTS&lt;/a&gt;, baseado na minha experiência com este sistema operacional, montei este passo-a-passo:&lt;/p&gt;
+
+&lt;p&gt;Aqui, demostrarei apenas o ambiente básico para desenvolvimento. Caso tenha alguma contribuição a fazer para melhoria deste artigo, não deixe de me procurar &amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/contato/&#34;&gt;&lt;em&gt;Contato&lt;/em&gt;&lt;/a&gt;.
+&lt;br&gt;&lt;/br&gt;
+No linux, vem instalada por padrão a versão 2.7, mas o suporte para esta será descontinuada a partir de 2020, portanto é recomendável utilizar a versão mais recente disponível.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Primeiramente atualizaremos os pacotes do sistema operacional através do comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt update
+~$ sudo apt upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Em seguida execute o comando para instalar a versão 3.5 do Python:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install python3.5
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Existem pacotes que podem ser requisitadas dependendo da aplicação desenvolvida, para isto, devemos instalar também o gerenciador de pacotes do Python executando o seguinte comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install python-pip
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Para certificar que tudo correu bem no terminal digite o comando:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ python3
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;O resultado será este:&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ python3
+Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
+[GCC 5.4.0 20160609] on linux
+Type &amp;quot;help&amp;quot;,&amp;quot;copyright&amp;quot;,&amp;quot;credits&amp;quot; or &amp;quot;license&amp;quot; for more information.
+&amp;gt;&amp;gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;
+Massa! Agora temos um ambiente pronto para iniciarmos nossos estudos em Python.
+&lt;/br&gt;
+Espero ter ajudado!
+&lt;p&gt;
+    &lt;font size=&#34;2&#34;&gt;
+    Fontes:
+        &lt;br&gt;
+            &lt;a href=&#34;http://python.org.br/instalacao-linux&#34;&gt; &lt;a href=&#34;http://python.org.br/instalacao-linux&#34;&gt;http://python.org.br/instalacao-linux&lt;/a&gt;
+            &lt;/a&gt;
+        &lt;/br&gt;
+            &lt;a href=&#34;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes)&#34;&gt; &lt;a href=&#34;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes&#34;&gt;https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes&lt;/a&gt;)
+            &lt;/a&gt;
+        &lt;br&gt;
+            &lt;a href=&#34;https://www.codecademy.com/articles/glossary-python&#34;&gt; &lt;a href=&#34;https://www.codecademy.com/articles/glossary-python&#34;&gt;https://www.codecademy.com/articles/glossary-python&lt;/a&gt;
+            &lt;/a&gt;
+        &lt;/br&gt;
+    &lt;/font&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;clique-aqui-https-rocilenecosta-github-io-tutorial-para-outros-tutoriais:7756bd14e55e9514eb42fffeeb20557e&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/tutorial/&#34;&gt;&lt;em&gt;Clique aqui&lt;/em&gt;&lt;/a&gt; para outros Tutoriais.&lt;/h4&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

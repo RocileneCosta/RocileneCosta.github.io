@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Tecnologia da Informação</title>
+    <link>https://rocilenecosta.github.io/tags/emacs/</link>
+    <description>Recent content in Emacs on Tecnologia da Informação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Mar 2018 10:55:01 -0200</lastBuildDate>
+    <atom:link href="https://rocilenecosta.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Editores de Texto para programar: GNU/Emacs</title>
+      <link>https://rocilenecosta.github.io/tutorial/Emacs%20editor%20de%20texto/</link>
+      <pubDate>Tue, 06 Mar 2018 10:55:01 -0200</pubDate>
+      
+      <guid>https://rocilenecosta.github.io/tutorial/Emacs%20editor%20de%20texto/</guid>
+      <description>
+
+&lt;p&gt;Chegou a vez dos editores de texto, o escolhido foi ele, o queridinho dos estatísticos, o &lt;strong&gt;GNU/Emacs&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Podemos dizer que este editor de texto já é um senhor, maduro e respeitável. Sua primeira versão foi escria em 1976 por ninguém menos que &lt;a href=&#34;https://pt.wikipedia.org/wiki/Richard_Matthew_Stallman&#34;&gt;Richard Stallman&lt;/a&gt; o pai do Software Livre! Com sua base  escrita em Lisp, este poderoso editor pode ser configurável e possui realce de sintaxe para várias linguagens. O &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;GNU Emacs&lt;/a&gt; conta com uma documentação robusta e está dsponível a todos os usuários.&lt;/p&gt;
+
+&lt;p&gt;Vou mostrar aqui como instalar o editor no &lt;a href=&#34;https://www.ubuntu.com/download/desktop&#34;&gt;Linux Ubuntu&lt;/a&gt;, mas acredito, que este tutorial também possa ser utilizado para outras distribuições. Primeiramente, vamos abrir o terminal, que pode ser via atalho no teclado pressionando as teclas &lt;strong&gt;ctrl + alt + t&lt;/strong&gt; e só para não perdermos o costume, vamos verificar se está tudo em dia com a nossa versão do SO, digitando os comandos:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt update
+~$ sudo apt upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Agora o comando para instalação do programa&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ sudo apt install emacs
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Se tudo correu bem, verifique a versão instalada&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~$ emacs --version
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;
+Tudo pronto! Agora você fará parte do seleto grupo de pessoas maravilhosas que utilizam o Emacs (incluindo a mim o/).&lt;/p&gt;
+
+&lt;p&gt;Para dicas sobre como usar o Emacs, sugiro que utilizem o próprio &lt;a href=&#34;https://pt.wikipedia.org/wiki/GNU_Emacs&#34;&gt;wiki da ferramenta&lt;/a&gt;, ou se preferir, também encontrei um &lt;a href=&#34;https://www.emacswiki.org/emacs/NovatoNoEmacs&#34;&gt;Guia em português&lt;/a&gt;, bem bacaninha que está me ajudando muito.&lt;/p&gt;
+
+&lt;p&gt;Por enquanto é só!
+&lt;br&gt;&lt;/br&gt;
+Caso tenha alguma contribuição a fazer para melhoria deste artigo, não deixe de me procurar &amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/contato/&#34;&gt;&lt;em&gt;Contato&lt;/em&gt;&lt;/a&gt;.
+&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;
+    &lt;font size=&#34;3&#34;&gt;
+    Fontes:
+        &lt;br&gt;
+            &lt;a href=&#34;https://pt.wikipedia.org/wiki/GNU_Emacs&#34;&gt; https://pt.wikipedia.org/wiki/GNU_Emacs
+            &lt;/a&gt;
+        &lt;/br&gt;
+            &lt;a href=&#34;https://www.emacswiki.org/emacs/NovatoNoEmacs&#34;&gt; https://www.emacswiki.org/emacs/NovatoNoEmacs
+            &lt;/a&gt;
+        &lt;br&gt;
+            &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt; https://www.gnu.org/software/emacs/ 
+            &lt;/a&gt;
+        &lt;/br&gt;
+    &lt;/font&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;clique-aqui-https-rocilenecosta-github-io-tutorial-para-outros-tutoriais:49b55aecd3c2466642d6db120fc1e08d&#34;&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href=&#34;https://rocilenecosta.github.io/tutorial/&#34;&gt;&lt;em&gt;Clique aqui&lt;/em&gt;&lt;/a&gt; para outros Tutoriais.&lt;/h4&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
